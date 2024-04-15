@@ -1,0 +1,9 @@
+/* NAVIGATION STUFF GOES HERE  */
+nav ul{
+    width: 200px;
+}
+
+@for $i from 1 through 12 {
+    $w: calc($i /12) * 100%;
+    .medium-#{$i} {flex-basis: $w;}
+}

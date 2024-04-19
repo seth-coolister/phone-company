@@ -1,1 +1,1 @@
-live deploy: https://devices-r-us.netlify.app/
+live deploy: https://seth-coolister.github.io/phone-company/
